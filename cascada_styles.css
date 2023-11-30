@@ -1,0 +1,17 @@
+/*Estilos por cascada*/
+
+h1 {
+    color: red;
+
+}
+
+h1 {
+    color: blue;
+}
+
+h1{
+    color: purple;
+
+}
+
+/*El utlimo estilo es que toma el poder*/

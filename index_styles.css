@@ -1,0 +1,13 @@
+/*Estilos por herencia*/
+.Section{
+    color:peru;
+    font-size: medium;
+}
+
+.tituloComunClase{
+    color:aqua;
+}
+
+#tituloComunId{
+    color:blueviolet;
+}

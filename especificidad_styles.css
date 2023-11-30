@@ -1,0 +1,15 @@
+p{
+    color:brown;
+}
+
+.parrafoClase{
+    color: violet;
+}
+
+#parrafoId{
+    color:crimson
+}
+
+.parrafoClaseImportant{
+    color:brown !important;
+}
